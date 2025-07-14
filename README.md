@@ -19,3 +19,10 @@
 | [RO0009](./relatorios-obras/ro0009-praca-cabo-branco-reforma/) | PRAÇA CABO BRANCO REFORMA | 40012/2023 | Tomada de Preços (Lei Nº 8.666/1993) |
 | [RO0010](./relatorios-obras/ro0010-praca-guilherme-town-reforma/) | PRAÇA GUILHERME TOWN REFORMA | 40013/2023 | Tomada de Preços (Lei Nº 8.666/1993) |
 | [RO0011](./relatorios-obras/ro0011-praca-sangradouro/) | PRAÇA SANGRADOURO | 40009/2023 |	Tomada de Preços (Lei Nº 8.666/1993) |
+
+# PARECERES TÉCNICOS
+
+| CÓDIGO | MODALIDADE | NÚMERO |
+|---|---|---|
+| [PT0001](./pareceres-tecnicos/pt0001-parecer-tecnico-10006-2025/) | PREGÃO PRESENCIAL | 10006/2025-PP |
+| [PT0002](./pareceres-tecnicos/pt0002-parecer-tecnico-10007-2025/) | PREGÃO PRESENCIAL | 10007/2025-PP |
