@@ -1,0 +1,6 @@
+# PARECERES TÉCNICOS
+
+| CÓDIGO | MODALIDADE | NÚMERO |
+|---|---|---|
+| [PT0001](./pt0001-parecer-tecnico-10006-2025/) | PREGÃO PRESENCIAL | 10006/2025-PP |
+| [PT0002](./pt0002-parecer-tecnico-10007-2025/) | PREGÃO PRESENCIAL | 10007/2025-PP |
