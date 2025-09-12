@@ -13,3 +13,4 @@
 | [RO0009](./or0009-praca-cabo-branco-reforma/) | PRAÇA CABO BRANCO REFORMA | 40012/2023 | Tomada de Preços (Lei Nº 8.666/1993) | -- | 🟢 Finalizada |
 | [RO0010](./or0010-praca-guilherme-town-reforma/) | PRAÇA GUILHERME TOWN REFORMA | 40013/2023 | Tomada de Preços (Lei Nº 8.666/1993) | -- | 🟢 Finalizada |
 | [RO0011](./or0011-praca-sangradouro/) | PRAÇA SANGRADOURO | 40009/2023 |	Tomada de Preços (Lei Nº 8.666/1993) | -- | 🟢 Finalizada |
+| [RO0012](./or0012-escola-florido/) | ESCOLA FLÓRIDO | 00005/2020 | Tomada de Preços (Lei Nº 8.666/1993) | -- | 🟢 Finalizada |
