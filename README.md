@@ -6,3 +6,6 @@
 
 # PARECERES TÉCNICOS
 [PARECERES](./pareceres-tecnicos/)
+
+# PENDÊNCIAS GEOPB
+[PENDÊNCIAS](./geopb-pendencias/)
