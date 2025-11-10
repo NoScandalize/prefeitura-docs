@@ -1,5 +1,5 @@
 # OBRAS - ARQUIVOS
-[RELATÓRIOS](https://github.com/NoScandalize/prefeitura-docs/blob/main/obras-arquivos/README.md)
+[OBRAS](https://github.com/NoScandalize/prefeitura-docs/blob/main/obras-arquivos/README.md)
 
 # ATESTADOS DE SERVIÇOS
 [ATESTADOS](https://github.com/NoScandalize/prefeitura-docs/blob/main/atestados-servicos/README.md)
