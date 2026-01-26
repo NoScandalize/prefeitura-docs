@@ -1,0 +1,80 @@
+ITEM 1 - Instalação de placa de regulamentação chapa de aço 1,25mm galv. circular, de diametro interno = 0,60m, placa totalmente refletiva, pelicula retro refletiva tipo I da ABNT/NBR 14644/13 em impressão digital com laminação translucida tipo V, com os devidos acessórios, de acordo com Termo de Referência.
+Composição SINAPI que mais se aproxima
+
+📌 Código 103699 – Fornecimento e instalação de placa de sinalização em chapa de aço em suporte metálico
+
+• Trata-se de uma composição de sinalização vertical viária que contempla a instalação de placas em chapa de aço com película retrorrefletiva tipo I, considerando mão de obra (montador e servente) e insumos relacionados.
+
+📌 Unidade: m²
+
+📌 Base: SINAPI (algumas versões indicam base Agosto/2024, com componentes inativos).
+
+Essa composição usa como insumo a placa de advertência em chapa de aço com película retrorrefletiva tipo I (código 44781)
+
+O insumo de placa com película retrorrefletiva tipo I (código 44781) está presente na base SINAPI, mas atualmente sem preço cotado (valor = 0), porque está inativo ou sem cotação atualizada na tabela.
+
+ITEM 2 - Fornecimento e instalação de placa de advertência, com chapa de aço 1,25mm galv. de 0,60m x 0,60m, placa totalmente refletiva, película retro refletiva tipo I da ABNT/NBR 14644/13, em impressão digital com laminação translucida tipo V, com os devidos acessórios de acordo com Termo de Referencia.
+Mesma composição e insumo do ITEM 1.
+
+ITEM 3 - Instalação de postes tubulares em ferro galvanizado ⌀INTERNO= 2", e espessura da parede e=2,65mm, com 3,0m de altura, com aletas antigiro(chumbadores) de 10cm soldadas em posição diametralmente oposta e parte superior com tampa
+📌 Composição SINAPI 103692
+
+Descrição:
+
+FORNECIMENTO E INSTALAÇÃO DE SUPORTE METÁLICO GALVANIZADO PARA PLACAS DE SINALIZAÇÃO,
+
+EM BASE DE CONCRETO, COM H = 2,5 M E DIÂMETRO DE 2″ – AF_03/2022
+
+📍 Unidade: unidade (UN)
+
+📍 Grupo: Sinalização Vertical Viária
+
+💰 Preço unitário médio nacional
+
+R$ 48,36 / UN — sem encargos sociais
+
+R$ 65,51 / UN — desonerado
+
+R$ 69,74 / UN — não desonerado
+
+(valores médios nacionais, base SINAPI, mostrados em plataformas de consulta de composições)
+
+⚠️ Os valores acima são referências médias nacionais com base na última tabela disponível na consulta pública (agosto/2024, algumas plataformas mostram esse histórico).
+
+ITEM 4 - Sinalização horizontal mecânica com material á base de resina acrilica, e = 0,6mm, na cor branca e amarela, para pintura de faixas de pedestres e lombadas
+SINAPI – composições nacionais para pintura de sinalização:
+
+✔️ Composição 102503 / 102511: pintura de faixa de pedestre ou zebrada com tinta acrílica aplicação mecânica, mas com componentes inativos na base padrão — costuma não exibir preço diretamente por estado (necessita de apoio de base com preços estaduais ou plataforma como Orçamentador).
+
+✔️ Composição 102509: pintura de faixa de pedestre ou zebrada com tinta retrorrefletiva — preço médio nacional ~ R$ 34–40 /m², mas sem valores específicos públicos sempre disponíveis por estado.
+
+Referência oficial do SINAPI
+
+📌 Composição SINAPI 102509
+
+Pintura de faixa de pedestre ou zebrada com tinta retrorrefletiva à base de resina acrílica com microesferas de vidro, e = 30 cm, aplicação manual. AF_05/2021
+
+• Custo médio nacional: R$ 40,69 /m² (preço não desonerado) — base SINAPI 11/2025.
+
+👉 O valor usado no edital (R$ 40,71) é praticamente igual ao custo médio dessa composição registrada no SINAPI.
+
+Essa composição do SINAPI é a mais próxima tecnicamente do que o edital descreve — sinalização horizontal viária com tinta acrílica retrorrefletiva. Mesmo que a descrição do edital mencione aplicação mecânica e espessura da película, os itens técnicos do SINAPI cobrem de forma equivalente o serviço de pintura de sinalização horizontal em m².
+
+🔎 Em outros editais públicos que consultam 102509 como referência, os preços aprovados ou considerados ficam próximos de ~R$ 31 – R$ 40/m² antes de encargos ou BDI, dependendo da região e do ajuste de índices.
+
+RESUMO
+
+Código SINAPI que respalda o item: 102509
+
+Descrição aproximada: Pintura de faixa de pedestre ou zebrada com tinta acrílica retrorrefletiva
+
+Referência de preço público mais atual (não desonerado): ~R$ 40,69/m² (SINAPI 11/2025)
+
+Valor do edital: R$ 40,71/m² → coerente com SINAPI
+
+ITEM 5 - Tachão bidirecional 25x15x5cm, em resina de poliéster ou sintética, de alta resistência mecânica, com cargas minerais não reativas, envolvido com ferro de 3/8, zincados e com roscas ancoradouros. Os elementos refletivos de acrílico e com
+103737 – FORNECIMENTO E INSTALAÇÃO DE TACHÃO SOBRE ASFALTO – AF_03/2022
+
+Essa composição corresponde ao serviço de tachão refletivo sobre pavimento (asfalto), que é o que você descreveu (tachão bidirecional em resina refletiva).
+
+No entanto, ela está com componentes inativos no banco de dados, por isso pode aparecer como “inativa” no SINAPI.
