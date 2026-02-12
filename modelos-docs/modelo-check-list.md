@@ -1,7 +1,6 @@
 # 🏗️ Obra X
 
 > Objeto:
-> ---
 
 > ## 📄 Dados
 >     - Dimensão (m²):
