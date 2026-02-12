@@ -1,8 +1,6 @@
 # 🏗️ Obra -
 
-> Objeto:
-
----
+> ℹ️ Objeto:
 
 > ## 📄 Dados
 >     - Dimensão (m²):
@@ -25,7 +23,7 @@
 
 ## 📘 1 - Cadastro
 
-- [x] Projeto em PDF
+- [ ] Projeto em PDF
 - [ ] Planilha Contratada (Excel)
 - [ ] ART
 - [ ] Convênio
