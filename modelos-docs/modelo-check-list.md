@@ -2,7 +2,6 @@
 
 > Objeto:
 
-> ---
 > ### 📄 Dados
 >     - Dimensão (m²):
 >     - Endereço da Obra:
@@ -12,9 +11,7 @@
 >     - Georreferência da Obra (Latitude e Longitude):
 >     - Data de Entrega da Obra:
 >     - Data de Recebimento:
-> ---
 
-> ---
 > ## ✍️ Convênio
 >     - Número:
 >     - Concedente:
@@ -23,9 +20,6 @@
 >     - Contrapartida:
 >     - Data da Assinatura:
 >     - Previsão de Término:
-> ---
-
----
 
 ## 📘 1 - Cadastro
 
@@ -34,13 +28,9 @@
 - [ ] ART
 - [ ] Convênio
 
----
-
 ## 📸 2 - Condições Iniciais
 
 - [ ] Imagem do Local Antes de Iniciar a Obra
-
----
 
 ## 📏 3 - Medições
 
@@ -50,13 +40,9 @@
 - [ ] Imagem da Obra
 - [ ] Nota Fiscal
 
----
-
 ## 📸 4 - Condições Finais
 
 - [ ] Imagem do Local Depois de Finalizar a Obra
-
----
 
 ## 📦 5 - Entrega da Obra
 
