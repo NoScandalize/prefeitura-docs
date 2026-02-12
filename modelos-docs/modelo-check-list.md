@@ -2,32 +2,34 @@
 
 > Objeto:
 
----
+> ---
+> ### 📄 Dados
+>     - Dimensão (m²):
+>     - Endereço da Obra:
+>     - Número da ART:
+>     - Data de Início da Obra:
+>     - Data de Fim da Obra:
+>     - Georreferência da Obra (Latitude e Longitude):
+>     - Data de Entrega da Obra:
+>     - Data de Recebimento:
+> ---
 
-### 📄 Dados
-
-Dimensão (m²):
-Endereço da Obra:
-Número da ART:
-Data de Início da Obra:
-Data de Fim da Obra:
-Georreferência da Obra (Latitude e Longitude):
-Data de Entrega da Obra:
-Data de Recebimento:
-Convênio
-    - Número:
-    - Concedente:
-    - CNPJ:
-    - Valor:
-    - Contrapartida:
-    - Data da Assinatura:
-    - Previsão de Término:
+> ---
+> ## ✍️ Convênio
+>     - Número:
+>     - Concedente:
+>     - CNPJ:
+>     - Valor:
+>     - Contrapartida:
+>     - Data da Assinatura:
+>     - Previsão de Término:
+> ---
 
 ---
 
 ## 📘 1 - Cadastro
 
-- [ ] Projeto em PDF
+- [x] Projeto em PDF
 - [ ] Planilha Contratada (Excel)
 - [ ] ART
 - [ ] Convênio
@@ -50,7 +52,7 @@ Convênio
 
 ---
 
-## 🏁 4 - Condições Finais
+## 📸 4 - Condições Finais
 
 - [ ] Imagem do Local Depois de Finalizar a Obra
 
