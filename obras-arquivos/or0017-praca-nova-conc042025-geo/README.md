@@ -1,7 +1,6 @@
-# 🏗️ Garagem Municipal da Prefeitura Municipal de Coremas/PB
+# 🏗️ Praça Nova
 
-> Objeto:  Contratação de pessoa jurídica especializada na área da construção civil, para reforma da garagem
-municipal da prefeitura municipal de Coremas/PB.
+> Objeto:  Contratação de pessoa jurídica especializada na are da construção civil, para construção da praça nova, no município de Coremas/PB.
 
 > ## 📄 Dados
 >     - Dimensão (m²):
@@ -24,7 +23,7 @@ municipal da prefeitura municipal de Coremas/PB.
 
 ## 📘 1 - Cadastro
 
-- [x] Projeto em PDF
+- [ ] Projeto em PDF
 - [ ] Planilha Contratada (Excel)
 - [ ] ART
 - [ ] Convênio

@@ -1,7 +1,6 @@
-# 🏗️ Garagem Municipal da Prefeitura Municipal de Coremas/PB
+# 🏗️ Centro de Atenção Psicossocial – CAPS
 
-> Objeto:  Contratação de pessoa jurídica especializada na área da construção civil, para reforma da garagem
-municipal da prefeitura municipal de Coremas/PB.
+> Objeto:  Contratação de empresa especializada no ramo da construção civil para execução da obra de implantação de Centro de Atenção Psicossocial – CAPS Porte I, no Município de Coremas/PB.
 
 > ## 📄 Dados
 >     - Dimensão (m²):
@@ -24,7 +23,7 @@ municipal da prefeitura municipal de Coremas/PB.
 
 ## 📘 1 - Cadastro
 
-- [x] Projeto em PDF
+- [ ] Projeto em PDF
 - [ ] Planilha Contratada (Excel)
 - [ ] ART
 - [ ] Convênio

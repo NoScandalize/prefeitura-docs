@@ -23,7 +23,7 @@
 
 ## 📘 1 - Cadastro
 
-- [x] Projeto em PDF
+- [ ] Projeto em PDF
 - [ ] Planilha Contratada (Excel)
 - [ ] ART
 - [ ] Convênio
