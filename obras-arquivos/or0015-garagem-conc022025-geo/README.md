@@ -1,4 +1,4 @@
-# 🏗️ Garagem Municipal da Prefeitura Municipal de Coremas/PB
+# 🏗️ Garagem Municipal
 
 > Objeto:  Contratação de pessoa jurídica especializada na área da construção civil, para reforma da garagem municipal da prefeitura municipal de Coremas/PB.
 
