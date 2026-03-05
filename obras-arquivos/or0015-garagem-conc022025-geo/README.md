@@ -3,14 +3,14 @@
 > Objeto:  Contratação de pessoa jurídica especializada na área da construção civil, para reforma da garagem municipal da prefeitura municipal de Coremas/PB.
 
 > ## 📄 Dados
->     - Dimensão (m²):
->     - Endereço da Obra:
->     - Número da ART:
->     - Data de Início da Obra:
->     - Data de Fim da Obra:
->     - Georreferência da Obra (Latitude e Longitude):
->     - Data de Entrega da Obra:
->     - Data de Recebimento:
+>     - Dimensão (m²): 
+>     - Endereço da Obra: 
+>     - Número da ART: 
+>     - Data de Início da Obra: 
+>     - Data de Fim da Obra: 
+>     - Georreferência da Obra (Latitude e Longitude): 
+>     - Data de Entrega da Obra: 
+>     - Data de Recebimento: 
 
 > ## ✍️ Convênio
 >     - Número:
