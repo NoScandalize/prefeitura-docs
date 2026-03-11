@@ -25,6 +25,7 @@
 
 - [x] Projeto em PDF
 - [ ] Planilha Contratada (Excel)
+- [ ] Ordem de Serviço em PDF
 - [ ] ART
 - [ ] Convênio
 
