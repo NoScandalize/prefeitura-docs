@@ -3,12 +3,12 @@
 > Objeto:  Contratação de pessoa jurídica especializada na are da construção civil, para construção da praça nova, no município de Coremas/PB.
 
 > ## 📄 Dados
->     - Dimensão (m²):
->     - Endereço da Obra:
->     - Número da ART:
->     - Data de Início da Obra:
->     - Data de Fim da Obra:
->     - Georreferência da Obra (Latitude e Longitude):
+>     - Dimensão (m²): 884,73
+>     - Endereço da Obra: Rua Virgulino da Silva, S/N, Nova Coremas - 58770-000 - Coremas/PB
+>     - Número da ART: PB20260807629
+>     - Data de Início da Obra: 
+>     - Data de Fim da Obra: 
+>     - Georreferência da Obra (Latitude e Longitude): -7.012938, -37.918463
 >     - Data de Entrega da Obra:
 >     - Data de Recebimento:
 
@@ -23,14 +23,15 @@
 
 ## 📘 1 - Cadastro
 
-- [ ] Projeto em PDF
+- [x] Projeto em PDF
 - [ ] Planilha Contratada (Excel)
-- [ ] ART
+- [ ] Ordem de Serviço
+- [x] ART
 - [ ] Convênio
 
 ## 📸 2 - Condições Iniciais
 
-- [ ] Imagem do Local Antes de Iniciar a Obra
+- [x] Imagem do Local Antes de Iniciar a Obra
 
 ## 📏 3 - Medições
 
