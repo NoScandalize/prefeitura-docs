@@ -13,12 +13,12 @@
 >     - Data de Recebimento:
 
 > ## ✍️ Convênio
->     - Número:
->     - Concedente:
->     - CNPJ:
->     - Valor: 
->     - Contrapartida:
->     - Data da Assinatura:
+>     - Número: 938992
+>     - Concedente: 
+>     - CNPJ: 
+>     - Valor: R$ 957.000,00
+>     - Contrapartida: R$ 2.000,00
+>     - Data da Assinatura: 
 >     - Previsão de Término:
 
 ## 📘 1 - Cadastro
@@ -27,7 +27,7 @@
 - [ ] Planilha Contratada (Excel)
 - [ ] ART
 - [ ] Convênio
-
+    
 ## 📸 2 - Condições Iniciais
 
 - [ ] Imagem do Local Antes de Iniciar a Obra
