@@ -4,6 +4,7 @@
 
 > ## 📄 Dados
 >     - Dimensão (m²): 
+>     - Valor da Obra: 
 >     - Endereço da Obra: 
 >     - Número da ART: 
 >     - Data de Início da Obra: 
@@ -31,7 +32,7 @@
 
 ## 📸 2 - Condições Iniciais
 
-- [ ] Imagem do Local Antes de Iniciar a Obra
+- [x] Imagem do Local Antes de Iniciar a Obra
 
 ## 📏 3 - Medições
 
