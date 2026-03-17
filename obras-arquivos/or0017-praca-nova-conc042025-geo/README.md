@@ -8,7 +8,7 @@
 >     - Número da ART: PB20260807629
 >     - Data de Início da Obra: 
 >     - Data de Fim da Obra: 
->     - Georreferência da Obra (Latitude e Longitude): -7.012938, -37.918463
+>     - Georreferência da Obra (Latitude e Longitude): -7.012934, -37.918438
 >     - Data de Entrega da Obra:
 >     - Data de Recebimento:
 
