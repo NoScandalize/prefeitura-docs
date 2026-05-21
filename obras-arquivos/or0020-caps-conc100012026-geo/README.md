@@ -3,23 +3,23 @@
 > Objeto:  Contratação de empresa especializada no ramo da construção civil para execução da obra de implantação de Centro de Atenção Psicossocial – CAPS Porte I, no Município de Coremas/PB.
 
 > ## 📄 Dados
->     - Dimensão (m²):
->     - Endereço da Obra:
->     - Número da ART:
->     - Data de Início da Obra:
->     - Data de Fim da Obra:
->     - Georreferência da Obra (Latitude e Longitude):
->     - Data de Entrega da Obra:
->     - Data de Recebimento:
+>     - Dimensão (m²): 
+>     - Endereço da Obra: 
+>     - Número da ART: 
+>     - Data de Início da Obra: 
+>     - Data de Fim da Obra: 
+>     - Georreferência da Obra (Latitude e Longitude): 
+>     - Data de Entrega da Obra: 
+>     - Data de Recebimento: 
 
 > ## ✍️ Convênio
->     - Número:
->     - Concedente:
->     - CNPJ:
+>     - Número: 
+>     - Concedente: 
+>     - CNPJ: 
 >     - Valor: 
->     - Contrapartida:
->     - Data da Assinatura:
->     - Previsão de Término:
+>     - Contrapartida: 
+>     - Data da Assinatura: 
+>     - Previsão de Término: 
 
 ## 📘 1 - Cadastro
 
