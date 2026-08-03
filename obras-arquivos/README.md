@@ -17,9 +17,9 @@
 | [RO0013](./or0013-pavimentacao-parede-acude-tp082021-geo00082021/) | PAVIMENTAÇÃO PAREDE DO AÇUDE | 00008/2021 | Tomada de Preços (Lei Nº 8.666/1993) | -- | 🟢 Finalizada |
 | [RO0014](./or0014-pavimentacao-varias-ruas-niemaia-conc012024-geo00062024/) | PAVIMENTAÇÃO VARIAS RUAS | 00001/2024 | Concorrência (Lei Nº 14.133/2021) | -- | 🟢 Finalizada |
 | [RO0015](./or0015-garagem-conc022025-geo/) | GARAGEM MUNICIPAL | 00002/2025 | Concorrência (Lei Nº 14.133/2021) | -- | 🟡 Em execução |
-| [RO0016](./or0016-matadouro-conc032025-geo/) | MATADOURO | 00003/2025 | Concorrência (Lei Nº 14.133/2021) | -- | 🔵 Em tramitação |
+| [RO0016](./or0016-matadouro-conc032025-geo/) | MATADOURO | 00003/2025 | Concorrência (Lei Nº 14.133/2021) | -- | 🟡 Em execução |
 | [RO0017](./or0017-praca-nova-conc042025-geo/) | PRAÇA NOVA | 00004/2025 | Concorrência (Lei Nº 14.133/2021) | -- | 🟡 Em execução |
 | [RO0018](./or0018-quadra-poliesportiva-conc100012025-geo/) | QUADRA POLIESPORTIVA | 10001/2025 | Concorrência (Lei Nº 14.133/2021) | -- | 🟡 Em execução |
 | [RO0019](./or0019-campo-futebol-conc100022025-geo/) | REFORMA CAMPO DE FUTEBOL | 10002/2025 | Concorrência (Lei Nº 14.133/2021) | -- | 🟡 Em execução |
-| [RO0020](./or0020-caps-conc100012026-geo/) | CAPS | 10001/2026 | Concorrência (Lei Nº 14.133/2021) | -- | 🔵 Em tramitação |
+| [RO0020](./or0020-caps-conc100012026-geo/) | CAPS | 10001/2026 | Concorrência (Lei Nº 14.133/2021) | -- | 🟡 Em execução |
 | [RO0021](./or0021-pavimentacao-buriti-tp400042023-geo01502023/) | PAVIMENTAÇÃO BURITI | 40004/2023 | Tomada de Preços (Lei Nº 8.666/1993) | -- | 🟡 Em execução |
